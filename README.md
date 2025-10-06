@@ -6,7 +6,7 @@ PythonのSeleniumを使用した静的サイトの自動操作方法について
 
 # 使用技術など
 言語：Python
-Selenium:サイトの呼び出し、自動操作
+Selenium:サイトの呼び出し、自動操作  
 Google chrome：今回使用したブラウザ
 
 # 実行イメージ
